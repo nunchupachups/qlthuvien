@@ -1,0 +1,9 @@
+D:\nam4\framework(C#)\QLTHUVIEN\BUS_QLTHUVIEN\bin\Debug\BUS_QLTHUVIEN.dll
+D:\nam4\framework(C#)\QLTHUVIEN\BUS_QLTHUVIEN\bin\Debug\BUS_QLTHUVIEN.pdb
+D:\nam4\framework(C#)\QLTHUVIEN\BUS_QLTHUVIEN\bin\Debug\DAL_QLTHUVIEN.dll
+D:\nam4\framework(C#)\QLTHUVIEN\BUS_QLTHUVIEN\bin\Debug\DAL_QLTHUVIEN.pdb
+D:\nam4\framework(C#)\QLTHUVIEN\BUS_QLTHUVIEN\obj\Debug\BUS_QLTHUVIEN.csproj.AssemblyReference.cache
+D:\nam4\framework(C#)\QLTHUVIEN\BUS_QLTHUVIEN\obj\Debug\BUS_QLTHUVIEN.csproj.CoreCompileInputs.cache
+D:\nam4\framework(C#)\QLTHUVIEN\BUS_QLTHUVIEN\obj\Debug\BUS_QLTHUVIEN.csproj.CopyComplete
+D:\nam4\framework(C#)\QLTHUVIEN\BUS_QLTHUVIEN\obj\Debug\BUS_QLTHUVIEN.dll
+D:\nam4\framework(C#)\QLTHUVIEN\BUS_QLTHUVIEN\obj\Debug\BUS_QLTHUVIEN.pdb

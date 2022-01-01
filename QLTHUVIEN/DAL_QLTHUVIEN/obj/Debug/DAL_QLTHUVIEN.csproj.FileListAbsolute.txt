@@ -1,0 +1,6 @@
+D:\nam4\framework(C#)\QLTHUVIEN\DAL_QLTHUVIEN\bin\Debug\DAL_QLTHUVIEN.dll
+D:\nam4\framework(C#)\QLTHUVIEN\DAL_QLTHUVIEN\bin\Debug\DAL_QLTHUVIEN.pdb
+D:\nam4\framework(C#)\QLTHUVIEN\DAL_QLTHUVIEN\obj\Debug\DAL_QLTHUVIEN.csproj.AssemblyReference.cache
+D:\nam4\framework(C#)\QLTHUVIEN\DAL_QLTHUVIEN\obj\Debug\DAL_QLTHUVIEN.csproj.CoreCompileInputs.cache
+D:\nam4\framework(C#)\QLTHUVIEN\DAL_QLTHUVIEN\obj\Debug\DAL_QLTHUVIEN.dll
+D:\nam4\framework(C#)\QLTHUVIEN\DAL_QLTHUVIEN\obj\Debug\DAL_QLTHUVIEN.pdb
